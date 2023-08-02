@@ -1,0 +1,78 @@
+.form-margin {
+    margin-left: 40px;
+    margin-right: 40px;
+}
+
+section {
+    height: auto;
+    gap: 1px;
+}
+
+.section {
+    display: flex;
+}
+
+.box {
+    width: 100%;
+    height: auto;
+    background-color: #EEEEEE;
+}
+
+.box-2 {
+    width: 37%;
+    padding: 0;
+    
+}
+
+.box-3 {
+    width: 26%;
+    padding: 0;
+
+
+}
+
+.bg-lightgreen {
+    background-color: #7EE5DA;
+}
+
+.bg-green {
+    background-color: #70CCC2;
+}
+
+.bg-darkgreen {
+    background-color: #62B3AA;
+}
+
+p, input {
+    margin: auto;
+}
+
+.input {
+    width: 300px;
+}
+
+.box p {
+    padding-top: 2px;
+}
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+}
+
+.middleUl {
+    font-size: 12px;
+}
+
+article {
+    padding-top: 6px;
+}
+
+footer {
+    padding-top: 10px;
+}
+
+div [class ^="box"]{
+    
+}
